@@ -11,6 +11,7 @@
     "id": "5a12fb4af663db7a893d467f",
     "picture": "https://greenmillshop.github.io/images/2.jpg",
     "name": "Lori Schmidt",
+    "category": "Specialones",
     "description": "Commodo laborum Lorem laboris do ea pariatur pariatur duis adipisicing in laboris in. Ea ut cillum velit sit. Velit est minim magna magna anim pariatur exercitation nostrud esse. Elit ullamco laboris reprehenderit aute aliquip aliqua laborum duis aliquip voluptate laboris sint labore. Adipisicing consectetur laboris labore quis laboris nisi cupidatat velit deserunt sit.\r\n",
     "price": 145
   },
@@ -40,6 +41,7 @@
     "id": "5a12fb4a4aa05abd4d6f94dc",
     "picture": "https://greenmillshop.github.io/images/1.jpg",
     "name": "Estelle Anderson",
+    "category": "Specialones",
     "description": "Mollit ex dolor magna qui adipisicing occaecat. Esse consectetur magna adipisicing qui minim est cillum et elit. Occaecat voluptate fugiat tempor dolore deserunt labore exercitation minim culpa duis anim.\r\n",
     "price": 1024
   },
@@ -70,6 +72,7 @@
     "id": "5a12fb4aa0599372bb12a620",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Haley Kent",
+    "category": "Specialones",
     "description": "Amet labore anim irure veniam fugiat consectetur non exercitation sunt et cillum duis tempor veniam. Ea dolor velit labore occaecat occaecat. Minim est fugiat eu ad Lorem elit ad amet labore consequat aute nulla aute est. Exercitation duis sint anim Lorem aute. Aliqua laborum minim eiusmod fugiat proident reprehenderit consectetur qui duis nulla.\r\n",
     "price": 929
   },
@@ -92,6 +95,7 @@
     "id": "5a12fb4a6e8f44f8b857b01f",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Caldwell Pickett",
+    "category": "Eartheaters",
     "description": "Adipisicing ipsum ut aliquip occaecat reprehenderit fugiat ea sit aute labore. Pariatur aliqua sunt commodo dolore deserunt eu exercitation veniam amet. Reprehenderit proident fugiat incididunt qui consectetur ullamco consectetur consequat non. Nulla esse elit sit esse voluptate esse aliqua fugiat elit sunt laborum pariatur in mollit. Quis aute reprehenderit aliqua sint qui ad est. Et cillum occaecat ex eu adipisicing enim cillum aute. Labore eiusmod reprehenderit aliquip reprehenderit ex eu in.\r\n",
     "price": 718
   },
@@ -113,6 +117,7 @@
     "id": "5a12fb4ae0f005194099530f",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Theresa Ryan",
+    "category": "Eartheaters",
     "description": "Labore dolor ex ex laborum sint do labore dolor. Eiusmod consectetur mollit tempor velit. Do ad ipsum ea ad incididunt est laborum ut. Exercitation dolor ullamco sint ex nostrud duis aute sint ea consequat quis incididunt deserunt veniam. Amet officia veniam cupidatat enim commodo do reprehenderit. Ut incididunt sint mollit dolore sunt.\r\n",
     "price": 298
   },
@@ -127,6 +132,7 @@
     "id": "5a12fb4a79cd740d9e80124e",
     "picture": "https://greenmillshop.github.io/images/1.jpg",
     "name": "Lowery Howe",
+    "category": "Lightlovers",
     "description": "Est qui aliqua excepteur quis tempor ullamco dolore est. Id excepteur officia proident et reprehenderit exercitation anim tempor magna ad. Sit laborum cillum aliquip aute proident reprehenderit eu laboris eu nisi do qui excepteur eu.\r\n",
     "price": 241
   },
@@ -134,6 +140,7 @@
     "id": "5a12fb4a54c452025ae1fe39",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Joyce Ferguson",
+    "category": "Eartheaters",
     "description": "Eiusmod excepteur excepteur laboris amet ad ex sunt id magna irure amet do. Do minim enim in deserunt anim nisi ipsum in id magna est cillum velit. Consequat exercitation ullamco incididunt duis commodo dolore ullamco commodo aliqua.\r\n",
     "price": 566
   },
@@ -157,6 +164,7 @@
     "id": "5a12fb4ac9ff46e24474d22a",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Dena Hawkins",
+    "category": "Lightlovers",
     "description": "Amet aliqua do ea nostrud qui laboris aute nisi tempor veniam tempor adipisicing in laborum. Mollit occaecat labore culpa in. Aute reprehenderit Lorem fugiat laborum excepteur sit culpa. Irure culpa exercitation enim qui aliqua eu ad proident elit occaecat pariatur pariatur. Et irure in esse Lorem id consectetur aliquip qui. Reprehenderit incididunt duis culpa nostrud adipisicing.\r\n",
     "price": 466
   },
@@ -186,6 +194,7 @@
     "id": "5a12fb4ae00b946d8b24564c",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Fischer Soto",
+    "category": "Eartheaters",
     "description": "Nulla culpa eu eiusmod minim ea veniam adipisicing ex ullamco sit id culpa ullamco labore. Pariatur esse adipisicing nulla aute. Non nisi officia dolore cupidatat. Laboris in eiusmod amet laborum dolore elit fugiat qui ullamco. Sunt ea occaecat magna cillum dolore veniam. Enim aute dolor ipsum quis et pariatur aliquip tempor voluptate duis consequat.\r\n",
     "price": 218
   },
@@ -193,6 +202,7 @@
     "id": "5a12fb4a886ab9522047e234",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Imogene Mays",
+    "category": "Eartheaters",
     "description": "Occaecat adipisicing eu eiusmod aliqua eiusmod ex enim officia elit laborum cupidatat. Ad commodo mollit proident commodo aute pariatur ad. Magna veniam eiusmod ipsum eiusmod consequat et irure quis. Exercitation dolor mollit labore fugiat ullamco quis labore culpa. Dolore dolore id velit culpa pariatur consectetur reprehenderit aute.\r\n",
     "price": 1077
   },
@@ -207,6 +217,7 @@
     "id": "5a12fb4ad778266e675cdb0f",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Carrie Howard",
+    "category": "Eartheaters",
     "description": "Velit minim velit id Lorem eu proident reprehenderit incididunt esse elit deserunt nulla. Nostrud voluptate aliqua nisi nisi eiusmod velit cupidatat. Fugiat eu sunt cillum consectetur sint anim velit. Amet nisi dolore minim ullamco deserunt commodo dolore. Ullamco nulla deserunt id proident mollit laboris id ipsum esse adipisicing.\r\n",
     "price": 200
   },
@@ -214,6 +225,7 @@
     "id": "5a12fb4a646b9d59f5c0fbbc",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Buchanan Clayton",
+    "category": "Hydroeagers", 
     "description": "Id dolore adipisicing consequat culpa ullamco et aute ut proident nostrud. Incididunt ipsum adipisicing nisi elit minim labore in non eu id. Pariatur est enim occaecat excepteur esse proident culpa cupidatat dolore deserunt esse esse ullamco consectetur. Pariatur dolore reprehenderit cupidatat enim voluptate. Irure anim ut mollit proident nulla eu duis velit elit magna magna fugiat veniam deserunt.\r\n",
     "price": 673
   },
@@ -221,6 +233,7 @@
     "id": "5a12fb4a9bf5a6d4f7c4da43",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Stella Griffith",
+    "category": "Lightlovers",
     "description": "Dolore officia officia incididunt ex laborum tempor sit commodo fugiat sunt irure excepteur. Pariatur nisi eiusmod elit ut ea irure. Proident velit est officia tempor Lorem sit. In veniam est elit in laborum anim laboris aute aute.\r\n",
     "price": 684
   },
@@ -236,6 +249,7 @@
     "id": "5a12fb4a8b028c92a4a849ed",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Mccarty Olson",
+    "category": "Eartheaters",
     "description": "Eu ex cillum fugiat fugiat velit culpa ut veniam cupidatat. Mollit et dolor labore non cupidatat consectetur tempor non. Quis nostrud voluptate amet laboris culpa enim excepteur sit do excepteur excepteur officia. Ad ut amet Lorem anim et sit proident adipisicing non id mollit. Magna velit laborum mollit cillum non eu esse dolor. Exercitation laboris commodo aliquip ex est culpa cillum adipisicing esse.\r\n",
     "price": 1090
   },
@@ -243,6 +257,7 @@
     "id": "5a12fb4af4ada8a151b5291b",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Alana Espinoza",
+    "category": "Eartheaters",
     "description": "Fugiat cupidatat deserunt consequat nulla non in laborum esse voluptate ad aliquip anim fugiat fugiat. Sit ad commodo cillum magna id non dolore amet non magna pariatur aliqua incididunt minim. Esse aliquip anim ea tempor sit magna ut quis nulla nisi voluptate. Voluptate anim elit non irure esse exercitation non pariatur duis. Ullamco non ipsum laborum aliquip cupidatat.\r\n",
     "price": 682
   },
@@ -257,6 +272,7 @@
     "id": "5a12fb4a71c4da1c3c67e500",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Barrett Carrillo",
+    "category": "Eartheaters",
     "description": "Minim amet aliqua eu sunt reprehenderit laboris et occaecat quis cupidatat amet quis sunt eiusmod. Ea eiusmod ad duis aliqua dolore nisi dolore enim. Amet sunt culpa ex nisi adipisicing esse laboris. Dolore quis minim et irure velit ea et deserunt eiusmod proident occaecat est ullamco. Excepteur exercitation deserunt deserunt sit laborum veniam sunt aute in ex anim eiusmod. Veniam ex qui dolor non consectetur enim dolor fugiat deserunt elit nulla nulla.\r\n",
     "price": 541
   },
@@ -264,6 +280,7 @@
     "id": "5a12fb4ad1a752b489773227",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Christa Morse",
+    "category": "Eartheaters",
     "description": "Ullamco proident excepteur quis sit do quis eiusmod cupidatat minim aliqua commodo. Nisi cillum et mollit deserunt adipisicing sit quis laborum ut duis labore quis sit. Irure commodo eu officia enim non est qui. Mollit occaecat ea mollit pariatur reprehenderit deserunt velit quis minim nulla. Est consectetur labore laboris dolor labore duis eu commodo qui ut adipisicing. Fugiat esse et eu reprehenderit.\r\n",
     "price": 289
   },
@@ -286,6 +303,7 @@
     "id": "5a12fb4a84bd133ff15fa2f8",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Renee Savage",
+    "category": "Eartheaters",
     "description": "Non minim cupidatat mollit reprehenderit irure. Deserunt non nostrud et sint laborum exercitation tempor. Eu velit sit laborum proident cillum esse sint. Aute in nostrud aliquip ex ipsum.\r\n",
     "price": 366
   },
@@ -293,6 +311,7 @@
     "id": "5a12fb4a0155345e8a951f4f",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Rosemary Mcdowell",
+    "category": "Eartheaters",
     "description": "Labore id dolore ullamco reprehenderit. Aliquip fugiat tempor excepteur veniam sunt id mollit. Ex ex sit incididunt culpa duis commodo consequat nisi consectetur elit voluptate. Mollit proident veniam exercitation nisi enim. In consectetur proident culpa laboris esse exercitation adipisicing pariatur ut et sit et duis proident. Dolor tempor veniam voluptate commodo cillum duis cupidatat incididunt. Est reprehenderit veniam tempor aliquip sint eiusmod.\r\n",
     "price": 675
   },
@@ -346,6 +365,7 @@
     "id": "5a12fb4ab247c3a7252523ec",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Marva Sellers",
+    "category": "Specialones",
     "description": "Deserunt excepteur ullamco id ea nostrud. Enim commodo magna labore fugiat dolor magna et enim quis Lorem ad eu nostrud. Labore cillum eiusmod tempor voluptate.\r\n",
     "price": 1120
   },
@@ -360,6 +380,7 @@
     "id": "5a12fb4ad1071a9722a58db7",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Dyer Morin",
+    "category": "Eartheaters",
     "description": "Labore est sint tempor dolor enim sint laborum mollit sit eiusmod elit officia proident. Culpa deserunt commodo veniam aliquip. Pariatur cupidatat sint aliquip sint est magna in consectetur aliqua. Occaecat consectetur ex ex commodo culpa laboris. Tempor aliqua pariatur laboris cillum eu elit eu minim aliqua qui ut nisi irure. Quis consectetur irure excepteur exercitation minim irure consequat pariatur quis anim minim quis.\r\n",
     "price": 682
   },
