@@ -320,13 +320,6 @@
     "price": 675
   },
   {
-    "id": "5a12fb4adbb12fbd9f7f713a",
-    "picture": "https://greenmillshop.github.io/images/3.jpg",
-    "name": "Stephens Trevino",
-    "description": "Reprehenderit officia magna qui labore nisi. In nostrud sint dolore dolore est ex nulla in in dolore occaecat quis. Lorem nisi elit proident tempor. Cillum amet veniam consequat exercitation veniam reprehenderit qui veniam. Dolor nisi elit amet nostrud deserunt sint non officia nulla. Nisi do amet tempor et deserunt reprehenderit sit veniam Lorem cillum.\r\n",
-    "price": 641
-  },
-  {
     "id": "5a12fb4a2e18cc198b959205",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Lauren Robbins",
@@ -354,6 +347,7 @@
     "id": "5a12fb4abb70afc12cff4322",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Dale Petersen",
+    "category": "Specialones",
     "description": "Velit officia et adipisicing elit anim duis ex reprehenderit dolore cupidatat mollit incididunt irure cupidatat. Quis consequat est ut amet adipisicing deserunt ullamco exercitation minim in occaecat exercitation do. Excepteur cupidatat et reprehenderit dolore qui anim enim elit. Veniam quis ad deserunt irure occaecat sit incididunt nulla irure anim qui eu dolor. Nisi sint elit quis nisi fugiat occaecat et exercitation.\r\n",
     "price": 153
   },
@@ -377,6 +371,7 @@
     "id": "5a12fb4ac428c3addf02a06f",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Vega Powell",
+    "category": "Eartheaters",
     "description": "Ex in Lorem ullamco ullamco proident duis velit aliqua nulla eiusmod. Ipsum Lorem adipisicing commodo nostrud esse laborum deserunt sint aliquip proident tempor occaecat. Magna enim sint sit ut ut mollit sit nulla incididunt aliqua est duis. Esse occaecat exercitation aute enim. Pariatur ipsum ullamco adipisicing aliqua elit amet ad non ut labore. Nostrud laboris do ullamco labore eu velit sint voluptate. Velit incididunt et ullamco ad in nostrud aute.\r\n",
     "price": 770
   },
