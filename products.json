@@ -19,6 +19,7 @@
     "id": "5a12fb4a7f7c45731251c978",
     "picture": "https://greenmillshop.github.io/images/1.jpg",
     "name": "Puckett Berg",
+    "category": "Lightlovers",
     "description": "Ipsum nisi ad non Lorem ea nostrud pariatur in quis anim esse. Quis Lorem exercitation magna cupidatat. Nostrud eiusmod excepteur non ea ullamco. Duis incididunt tempor cupidatat labore sunt. Amet in deserunt incididunt cillum fugiat aliqua ex. Id culpa ex cupidatat eu. Proident minim dolore occaecat reprehenderit laboris officia in et in eiusmod.\r\n",
     "price": 812
   },
@@ -26,6 +27,7 @@
     "id": "5a12fb4af4263decba209898",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Rosetta Walters",
+    "category": "Lightlovers",
     "description": "Anim adipisicing eu aliqua ipsum duis laborum amet occaecat officia labore non occaecat cupidatat. Irure nulla eu elit et fugiat qui ea tempor eiusmod est enim. Amet tempor consequat ex nisi ex veniam ipsum eu. Do proident culpa Lorem ad pariatur laboris deserunt qui ipsum do. Non sunt irure laborum irure ad amet elit cupidatat non id nisi non consectetur. Dolor fugiat laboris pariatur voluptate incididunt qui voluptate id consequat sit sit aliquip. Quis ullamco ut dolor elit elit mollit fugiat cupidatat.\r\n",
     "price": 1115
   },
@@ -49,6 +51,7 @@
     "id": "5a12fb4ac8b281d3362eff02",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Lilian Wheeler",
+    "category": "Lightlovers",
     "description": "Dolore sunt Lorem velit ut aute aute fugiat. Cupidatat adipisicing minim consequat laborum. Minim ex amet et aute esse eu consequat. Consectetur magna ex dolor incididunt laboris esse ullamco labore enim id aliqua do ullamco ullamco. Tempor ad culpa ut reprehenderit fugiat. Tempor aliqua excepteur qui elit incididunt tempor. Do consequat amet velit cillum in ea pariatur aliqua quis mollit elit anim veniam laborum.\r\n",
     "price": 824
   },
@@ -80,6 +83,7 @@
     "id": "5a12fb4a1b321385a9826a65",
     "picture": "https://greenmillshop.github.io/images/2.jpg",
     "name": "Tammi Moore",
+    "category": "Lightlovers",
     "description": "Adipisicing velit ut excepteur qui. Laborum cupidatat quis ullamco labore nisi reprehenderit. Officia nisi irure dolor voluptate dolore amet cupidatat labore id incididunt esse veniam. Occaecat non magna veniam minim ad magna ad. Deserunt proident officia excepteur aliquip.\r\n",
     "price": 682
   },
@@ -127,6 +131,7 @@
     "id": "5a12fb4a74c23f78f9701efc",
     "picture": "https://greenmillshop.github.io/images/2.jpg",
     "name": "William Bartlett",
+    "category": "Lightlovers",
     "description": "Esse veniam sunt laboris occaecat. Anim dolor laborum amet aliqua cupidatat ex ex quis nostrud incididunt et eu velit ex. Esse ipsum ullamco anim amet consequat nostrud. Esse anim incididunt occaecat anim commodo esse. Eu sint reprehenderit amet ad laboris ad incididunt exercitation duis voluptate consequat esse in magna. Ullamco duis ipsum dolor aliqua. Sint aliquip nulla ullamco eiusmod.\r\n",
     "price": 1135
   },
@@ -214,6 +219,7 @@
     "id": "5a12fb4a3f99696b5df563d7",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Elisa Washington",
+    "category": "Eartheaters",
     "description": "Laborum aliqua minim sit aute esse cupidatat. Anim laboris anim laboris Lorem nisi minim elit. Consectetur et aliquip consequat exercitation. Aliqua irure labore cupidatat velit mollit. Irure commodo dolore voluptate adipisicing.\r\n",
     "price": 228
   },
@@ -269,6 +275,7 @@
     "id": "5a12fb4aba8f27b03ae23245",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Tanner Floyd",
+    "category": "Eartheaters",
     "description": "Aute esse et magna excepteur ipsum incididunt quis fugiat duis excepteur. Proident pariatur occaecat nisi pariatur velit officia laborum proident aliqua eiusmod ut in consectetur fugiat. Adipisicing sunt pariatur qui deserunt culpa laborum. Laboris ea occaecat exercitation consectetur amet fugiat incididunt enim exercitation ipsum labore.\r\n",
     "price": 332
   },
@@ -300,6 +307,7 @@
     "id": "5a12fb4aa184d980c19b6dc4",
     "picture": "https://greenmillshop.github.io/images/3.jpg",
     "name": "Valarie Burns",
+    "category": "Eartheaters",
     "description": "Id excepteur ad do anim. Qui excepteur adipisicing anim ipsum exercitation irure velit culpa enim. Occaecat sint enim pariatur sit velit ex aute ad.\r\n",
     "price": 617
   },
